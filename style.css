@@ -1,6 +1,7 @@
 /* general */
 body{
     font-family: "Varela Round", sans-serif;
+    margin: 0;
 }
 .clear{
     clear: both;
